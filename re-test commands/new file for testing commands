@@ -1,2 +1,7 @@
 hello
 will try to check how many command i remember 
+
+git init
+git add .
+git commit -m "my ...... commit"
+git push origin master
